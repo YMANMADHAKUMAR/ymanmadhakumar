@@ -6,12 +6,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...i am studying
+- 🔭 I’m  studying
 - 🌱 I’m currently learning ...electronic communication engineering
 - 👯 I’m looking to collaborate on ...iot
 - 🤔 I’m looking for help with ... my self
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...bus
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
